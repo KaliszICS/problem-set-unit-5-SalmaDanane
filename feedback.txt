@@ -1,0 +1,10 @@
+K(30%): 66
+I(30%): 60
+C(10%): 100
+A(30%): 60
+65.8% of 80 - 52.64%
+
+Your spaces and words count happened twice making the answers incorrect.
+You didn't do the frequency section of option 1!
+Make sure you copy your code from onlineGDB properly.  You were missing 2 brackets at the bottom.
+Good commenting.  Make sure you're able to finish everything!
